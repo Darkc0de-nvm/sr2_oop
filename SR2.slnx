@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="../Practise2/.gitignore" />
+    <File Path="C:/Users/Dima/Downloads/progress.png" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="D:/VisualStudioProj/SR2/SR2/Task1_MinOperationsToMoveBalls.csproj" />
+  <Project Path="D:/VisualStudioProj/SR2/Task2_SubrectangleQueries/Task2_SubrectangleQueries.csproj" />
+  <Project Path="D:/VisualStudioProj/SR2/Task3_TotalWavinessInRangeI/Task3_TotalWavinessInRangeI.csproj" />
+  <Project Path="D:/VisualStudioProj/SR2/Task4_GroupPeopleBySize/Task4_GroupPeopleBySize.csproj" />
+  <Project Path="D:/VisualStudioProj/SR2/Task5_OriginalArrayOfPrefixXor/Task5_OriginalArrayOfPrefixXor.csproj" />
+  <Project Path="D:/VisualStudioProj/SR2/Task6_BinaryStringsWithoutAdjacentZeros/Task6_BinaryStringsWithoutAdjacentZeros.csproj" Id="465a8610-56e4-4959-a6f9-826ad7abf205" />
+  <Project Path="D:/VisualStudioProj/SR2/Task7_CountMaxBitwiseOrSubsets/Task7_CountMaxBitwiseOrSubsets.csproj" Id="9a18d274-7c3e-4f5d-b04a-d485c7a54691" />
+  <Project Path="D:/VisualStudioProj/SR2/Task8_MaxSubstringsWithDistinctStart/Task8_MaxSubstringsWithDistinctStart.csproj" Id="29b13100-8320-40c3-abc7-70f9a5434d79" />
+  <Project Path="D:/VisualStudioProj/SR2/Task9_PartitioningIntoMinDeciBinaryNumbers/Task9_PartitioningIntoMinDeciBinaryNumbers.csproj" Id="0d0ebb69-9ff6-482c-86fb-22e718ecae43" />
+  <Project Path="Task10_PartitionArrayByPivot/Task10_PartitionArrayByPivot.csproj" Id="0ba4ed92-bbdd-464e-9430-03acbb3875c0" />
+</Solution>
